@@ -8,6 +8,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
+gem 'tzinfo-data'
+gem 'devise', '~> 3.4.0'
 
 group :development, :test do
 	gem 'sqlite3'
